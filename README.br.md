@@ -1,4 +1,4 @@
-Um baixador de video com uma simples interface gráfica usando Python
+Um baixador de vídeo com uma simples interface gráfica usando Python
 
 Este projeto usou:
 
