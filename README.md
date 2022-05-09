@@ -1,5 +1,5 @@
 # Youtube-Video-Downloader
-See this in [Portuguese](https://github.com/Ranbut/Youtube-Video-Downloader/blob/main/README.br.md)
+See this in [Português](https://github.com/Ranbut/Youtube-Video-Downloader/blob/main/README.br.md)
 
 A video downloader for youtube with GUI using Python
 
