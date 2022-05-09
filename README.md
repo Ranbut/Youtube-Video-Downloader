@@ -1,5 +1,5 @@
 # Youtube-Video-Downloader
-A video downloader for youtube using Python
+A video downloader for youtube with GUI using Python
 
 This project used:
 
